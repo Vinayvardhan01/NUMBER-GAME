@@ -1,0 +1,9 @@
+***************NUMBER GAME*****************
+step 1==> here first we have to create randomnumber by import random library
+step 2==> take the input from the user 
+step 3==> take onr number for exiting the loop (ex:10)
+step 4==> create two variables and stroe randomnumber and input to them 
+step 5==> create correct variable and assiagn to "0"
+step 6==>check each digit in number by using the loop for both random number and input
+step 7==>if both of the numbers equal then increment the correct variable to +1
+step 8==>if the number is equals to the random return true else repear step 6 and return corect positions of the variable 
